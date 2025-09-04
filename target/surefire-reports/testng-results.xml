@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-04T14:06:47 IST" name="Suite" finished-at="2025-09-04T14:06:54 IST" duration-ms="7104">
+    <groups>
+    </groups>
+    <test started-at="2025-09-04T14:06:47 IST" name="Test" finished-at="2025-09-04T14:06:54 IST" duration-ms="7104">
+      <class name="com.mystore.utilities.DemoTest">
+        <test-method signature="f()[pri:0, instance:com.mystore.utilities.DemoTest@74e52303]" started-at="2025-09-04T14:06:47 IST" name="f" finished-at="2025-09-04T14:06:54 IST" duration-ms="7003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.mystore.utilities.DemoTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
